@@ -1,0 +1,42 @@
+# 🧮 Simple Calculator Program
+
+This is a basic command-line calculator written in Python. It allows the user to input two numbers and perform one of the four basic arithmetic operations: 
+**addition, subtraction, multiplication**, or **division**.
+
+---
+
+## 📌 Features
+
+- Accepts user input for two numbers
+- Performs:
+  - ➕ Addition
+  - ➖ Subtraction
+  - ✖️ Multiplication
+  - ➗ Division
+- Handles division by zero
+- Provides clear output using formatted strings
+
+---
+
+## 💻 How to Run
+
+1. Make sure you have Python installed on your system (Python 3.x recommended).
+2. Copy the code into a file named `calculator.py`.
+3. Open a terminal or command prompt and run:
+4. Enter the first number: 10  
+Enter the second number: 5  
+Enter an operation (+, -, *, /): *  
+10.0 * 5.0 = 50.0
+   
+🧠 Notes
+The program gracefully handles invalid operations.
+
+Prevents division by zero errors.
+
+🧑‍💻 Author
+Dayo Emmanuel Jimoh
+
+
+
+```bash
+python calculator.py
